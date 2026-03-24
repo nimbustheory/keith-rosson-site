@@ -119,7 +119,7 @@ export default function Press() {
                     </a>
                     <span style={{
                       fontFamily: 'var(--font-condensed)',
-                      fontSize: '0.8rem',
+                      fontSize: '0.875rem',
                       color: 'var(--ash)',
                       marginLeft: 'var(--space-md)',
                       letterSpacing: '0.1em',
